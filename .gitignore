@@ -1,0 +1,9 @@
+.idea/
+.vscode/
+credentials.ini
+hoge
+/coverage/
+/vendor/
+/logs/*
+!/logs/README.md
+.phpunit.result.cache
