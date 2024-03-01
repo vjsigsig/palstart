@@ -25,7 +25,7 @@
         "php": "^7.4 || ^8.0",
         "ext-json": "*",
         "ext-simplexml": "*",
-        "aws/aws-sdk-php": "^3.298",
+        "aws/aws-sdk-php": "^3.300",
         "monolog/monolog": "^2.8",
         "php-di/php-di": "^6.4",
         "slim/php-view": "^3.2",
